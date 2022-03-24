@@ -1,0 +1,31 @@
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\LogFile.txt
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\LoginValidation.cs
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.deps.json
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.runtimeconfig.json
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.runtimeconfig.dev.json
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.dll
+C:\Users\pc\source\repos\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfo.cs
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.dll
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.genruntimeconfig.cache
+C:\Users\pc\source\repos\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\LogFile.txt
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\LoginValidation.cs
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.exe
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.deps.json
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.runtimeconfig.json
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.runtimeconfig.dev.json
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.dll
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\bin\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.AssemblyInfo.cs
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.dll
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.pdb
+C:\Users\PC\Desktop\Visual Studio\PSProekt\PSProekt\UserLogin\obj\Debug\netcoreapp3.1\UserLogin.genruntimeconfig.cache
